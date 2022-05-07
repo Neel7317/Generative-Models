@@ -7,5 +7,5 @@ Basic to advanced level of generative model with code.
 
 -- A typical autoencoder consists of multiple layers of progressively fewer neurons for encoding the original input called a bottleneck layer. One danger is that the resulting algorithms may be missing important dimensions for the problem if the bottleneck layer is too narrow.
 
-</a href='https://github.com/Neel7317/Generative-Models/blob/main/Simple_Autoencoders.ipynb'>Autoencoder Dimensionality Reduction</a>
-</a href='https://github.com/Neel7317/Generative-Models/blob/main/Autoencoder(from_noise_to_original).ipynb'>Autoencoder for Image Denoising</a>
+<a href='https://github.com/Neel7317/Generative-Models/blob/main/Simple_Autoencoders.ipynb'>Autoencoder Dimensionality Reduction</a>
+<a href='https://github.com/Neel7317/Generative-Models/blob/main/Autoencoder(from_noise_to_original).ipynb'>Autoencoder for Image Denoising</a>
